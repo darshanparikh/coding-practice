@@ -1,0 +1,5 @@
+# Ignore below files
+out/
+.idea/
+*.xml
+*.iml
