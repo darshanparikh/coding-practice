@@ -1,4 +1,4 @@
-package com.solutions.leetcode;
+package com.solutions.leetcode.arrayproductsign;
 
 /**
  * Solution for LeetCode Problem - Sign of the Product of an Array
