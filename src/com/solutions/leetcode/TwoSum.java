@@ -5,8 +5,9 @@ import java.util.Map;
 import java.util.Objects;
 
 /**
- * Solution for LeetCode - Two Sum problem
- * @see <a href="https://leetcode.com/problems/two-sum/">Two Sum</a>
+ * Solution for LeetCode Problem - Two Sum
+ * @see <a href="https://leetcode.com/problems/two-sum/">Problem Statement</a>
+ * <a href="https://leetcode.com/submissions/detail/614055246/">Solution Performance</a>
  * @author Darshan Parikh, darshan1191@gmail.com
  */
 public class TwoSum {
