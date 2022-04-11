@@ -4,6 +4,11 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 
+/**
+ * Solution for LeetCode - Two Sum problem
+ * @see <a href="https://leetcode.com/problems/two-sum/">Two Sum</a>
+ * @author Darshan Parikh, darshan1191@gmail.com
+ */
 public class TwoSum {
 
     public static void main(String[] args) {
@@ -36,7 +41,7 @@ public class TwoSum {
         return result;
     }
 
-    /**
+    /*
      * Assuming int type having good hashCode implementation generating unique codes
      * for different values, Map should have constant time put, containsKey and
      * get calls - making it a linear solution O(n)
